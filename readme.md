@@ -1,3 +1,8 @@
-#Notification <sup>[WRIO](http://wr.io) App</sup>
+#Notification <sup>[WRIO](http://wrioos.com) App</sup>
+(coming soon)
 
-Powered by [Open Copyright] (http://opencopyright.webrunes.com)
+##Official Hub
+[notification.wrioos.com](http://notification.wrioos.com)
+
+Powered by [Open Copyright](http://opencopyright.webrunes.com)
+
